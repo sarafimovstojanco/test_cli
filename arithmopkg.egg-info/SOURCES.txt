@@ -1,0 +1,8 @@
+setup.py
+arithmopkg/__init__..py
+arithmopkg/__main__.py
+arithmopkg.egg-info/PKG-INFO
+arithmopkg.egg-info/SOURCES.txt
+arithmopkg.egg-info/dependency_links.txt
+arithmopkg.egg-info/entry_points.txt
+arithmopkg.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+arithmopkg = arithmopkg.__main__:main
+
